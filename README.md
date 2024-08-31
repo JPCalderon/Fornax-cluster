@@ -1,3 +1,3 @@
 # Fornax-cluster
 
-[Presentation](JPcalderon-Fornax_project.pdf)
+[Presentation](JPCalderon-Fornax_project.pdf)
